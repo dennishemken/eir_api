@@ -1,6 +1,6 @@
 spring:
   data:
     mongodb:
-      database: HotelBooking
+      database: eirdb
       port: 27017
-server.port: 8090
+server.port: 8081
